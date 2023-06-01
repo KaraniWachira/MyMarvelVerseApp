@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+## screenshot of my solution
+![Screenshot from 2023-06-02 01-56-35](https://github.com/KaraniWachira/MyMarvelVerseApp/assets/61309573/e9c35ca8-5fa9-421b-a80c-1b52d68add0d)
+
+![Screenshot from 2023-06-02 01-57-03](https://github.com/KaraniWachira/MyMarvelVerseApp/assets/61309573/ee355497-03dc-4283-9a0f-b7ecc75614c0)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
